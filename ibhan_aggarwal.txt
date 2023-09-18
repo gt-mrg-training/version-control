@@ -1,0 +1,3 @@
+Ibhan Aggarwal
+iaggarwal32@gatech.edu
+I am interested in communicating with hardware for localization and perception.
