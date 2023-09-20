@@ -1,0 +1,3 @@
+Santiago Fiz
+sfiz3@gatech.edu
+I am interested in localization, sensor fusion, and computer vision.
